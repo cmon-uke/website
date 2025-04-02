@@ -73,9 +73,9 @@ user_groups:
   - Postdocs
 ---
 
-I am an experimental cognitive scientist studying the links between joint action, communication, and learning. In particular, I am interested in how people acquire skills and technical know-how through social interactions with other people; how people use their existing skills and knowledge about the task and other people to encode and readout relevant information from instrumental movements, and the long-term consequences for this communication both at the individual level (e.g. how does online communication with a teacher affect what and how a student learns the skill?) and population level (how does the information change as it passes from person to person?)
+James Strachan is an experimental cognitive scientist studying the links between joint action, communication, and learning. James is interested in how people acquire skills and technical know-how through social interactions with other people; how people use their existing skills and knowledge about the task and other people to encode and readout relevant information from instrumental movements, and the long-term consequences for this communication both at the individual level (e.g. how does online communication with a teacher affect what and how a student learns the skill?) and population level (how does the information change as it passes from person to person?)
 
-I joined the lab in 2023 as a Humboldt Research Fellow, supported by the [Alexander von Humboldt Foundation](https://humboldt-foundation.de) investigating the kinematic signature of pedagogical intentions in teachers' demonstrations. I am currently a postdoc working on the [ASTOUND](/project/astound) project investigating social cognition and competencies in artificial intelligence.
+James joined the lab in 2023 as a Humboldt Research Fellow, supported by the [Alexander von Humboldt Foundation](https://humboldt-foundation.de) investigating the kinematic signature of pedagogical intentions in teachers' demonstrations. He is currently a postdoc working on the [ASTOUND](/project/astound) project investigating social cognition and competencies in artificial intelligence.
 
 ---
 

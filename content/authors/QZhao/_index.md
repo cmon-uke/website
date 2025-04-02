@@ -62,7 +62,7 @@ user_groups:
   - Lab members
 ---
 
-I am currently a PhD candidate in Psychology at Shanghai University of Sport, China. Since April 2024, I have also been serving as a visiting scholar in Prof. Cristina Becchio’s laboratory at the University Medical Center Hamburg-Eppendorf, Germany. Particularly, I am interested in how humans perceive and understand others’ actions. My doctoral work focuses on action prediction in table tennis players. Using computational modeling and neuroimaging techniques, I investigate the mechanisms that allow experts to detect subtle movement patterns and make superior predictions.
+Qiwei Zhao is currently a PhD candidate in Psychology at Shanghai University of Sport, China. Since April 2024, Qiwei has also been serving as a visiting scholar in Prof. Cristina Becchio’s laboratory at the University Medical Center Hamburg-Eppendorf, Germany. Particularly, Qiwei is interested in how humans perceive and understand others’ actions. His doctoral work focuses on action prediction in table tennis players. Using computational modeling and neuroimaging techniques, he investigates the mechanisms that allow experts to detect subtle movement patterns and make superior predictions.
 
 ---
 

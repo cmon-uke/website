@@ -60,11 +60,11 @@ user_groups:
   - Lab members
   - Visiting
 ---
-I am a PhD student at La Sapienza University of Rome in Psychology and Cognitive Science, working at ISTC-CNR in Rome with Giovanni Pezzulo and the Conan Lab team. I hold a master’s degree in Cognitive Neuroscience from La Sapienza, during which I spent three months at the University of Copenhagen for an internship at the CoInAct Lab under Prof. Mark Schram Christensen, gaining experience with TMS, EEG, and EMG techniques.
+Valeria Simonelli is a PhD student at La Sapienza University of Rome in Psychology and Cognitive Science, working at ISTC-CNR in Rome with Giovanni Pezzulo and the Conan Lab team. Valeria holds a master’s degree in Cognitive Neuroscience from La Sapienza, during which she spent three months at the University of Copenhagen for an internship at the CoInAct Lab under Prof. Mark Schram Christensen, gaining experience with TMS, EEG, and EMG techniques.
 
-Currently, I am a visiting researcher at the CMON Lab (UKE-Eppendorf, Hamburg) under Prof. Cristina Becchio, running a study on how environmental uncertainty influences the exploration-exploitation trade-off in neurotypical adults. This will later be extended to children with Autism Spectrum Disorder (ASD) at the Gaslini Institute in Genoa.
+Currently, Valeria is a visiting researcher at the CMON Lab (UKE-Eppendorf, Hamburg) under Prof. Cristina Becchio, running a study on how environmental uncertainty influences the exploration-exploitation trade-off in neurotypical adults. This will later be extended to children with Autism Spectrum Disorder (ASD) at the Gaslini Institute in Genoa.
 
-My PhD research focuses on goal-directed decision-making and planning, investigating how people flexibly adjust behavior based on environmental structure and uncertainty. I explore these processes in foraging and planning tasks with neurotypical individuals and clinical populations.
+Valeria's PhD research focuses on goal-directed decision-making and planning, investigating how people flexibly adjust behavior based on environmental structure and uncertainty. She explores these processes in foraging and planning tasks with neurotypical individuals and clinical populations.
 
 
 ---
