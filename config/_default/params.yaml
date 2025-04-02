@@ -1,0 +1,123 @@
+# SITE SETUP
+# Guide: https://docs.hugoblox.com/tutorial/
+# Documentation: https://docs.hugoblox.com/
+# This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
+
+# Appearance
+
+appearance:
+  theme_day: ocean # https://github.com/HugoBlox/hugo-blox-builder/blob/main/modules/blox-bootstrap/data/themes/ocean.toml
+  #theme_night: mr_robot
+  mode: system
+  font: minimal
+  font_size: M
+
+# SEO
+
+marketing:
+  seo:
+    site_type: Research Group
+    local_business_type: ''
+    org_name: ''
+    description: 'Becchio Lab Cognition, Motion & Neuroscience. Research group led by Prof. Dr. Cristina Becchio at University Medical Center Hamburg-Eppendorf (UKE)'
+    twitter: ''
+  analytics:
+    google_analytics: ''
+    baidu_tongji: ''
+    google_tag_manager: ''
+    microsoft_clarity: ''
+  verification:
+    google: ''
+    baidu: ''
+
+# Site header
+
+header:
+  navbar:
+    enable: true
+    blox: "navbar"
+    align: r
+    logo: 
+      filename: 'logo.svg'
+    #show_logo: true
+    show_language: false
+    show_theme_chooser: true
+    show_search: true
+    highlight_active_link: false
+
+# Site footer
+
+footer:
+  text: 'Images credit: Laura Taverna'
+  copyright:
+    notice: '© {year} CMON. This work is licensed under {license}'
+    license:
+      enable: true
+      allow_derivatives: false
+      share_alike: true
+      allow_commercial: false
+
+# Localization
+
+locale:
+  date_format: 'Jan 2, 2006'
+  time_format: '3:04 PM'
+  address_format: en-us
+
+# Site features
+
+features:
+  syntax_highlighter:
+    enable: false
+    extra_languages:
+      - r
+      - latex
+  math:
+    enable: false
+  privacy_pack:
+    enable: false
+  repository:
+    url: 'https://github.com/cmon-uke/website'
+    content_dir: content
+    branch: main
+  avatar:
+    gravatar: false
+    shape: circle
+  comment:
+    provider: ''
+    disqus:
+      shortname: ''
+      show_count: true
+    commento:
+      url: ''
+    giscus:
+      repo: ''
+      repo_id: ''
+      category: ''
+      category_id: ''
+  search:
+    provider: wowchemy
+    algolia:
+      app_id: ''
+      api_key: ''
+      index_name: ''
+      show_logo: false
+  map:
+    provider: 'mapnik'
+    api_key: ''
+    zoom: 15
+
+# Extensions
+
+extensions:
+  decap_cms:
+    branch: main
+    local_backend: false
+  academicons:
+    enable: true
+
+# Citation style
+
+publications:
+  date_format: January 2006
+  citation_style: apa

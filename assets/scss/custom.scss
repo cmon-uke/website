@@ -1,0 +1,63 @@
+
+
+.hero-title {
+  text-align: left;
+  color: #3f51b5;
+}
+
+#section-hero .container {
+  width: 40vw;
+  margin-left: 10vw !important;
+  margin-top: 60vh !important;
+}
+
+/* format how publications are presented */
+// authors, journal, link, etc. on second line - add indent 
+.second_line {
+  margin-left: 20pt;
+  display: inline-block;
+  font-size: 0.75rem;
+}
+
+.second_line .author .journal {
+  display: block;
+}
+
+// filter and search bar 
+#bibfilters {
+  width: inherit;
+  padding-bottom: 2em;
+  display: flex;
+}
+
+#bibfilters .bibtex_search {
+  margin-left: 0.1rem;
+  margin-right: 0.1rem;
+}
+
+#bibfilters .bibtex_search_textentry {
+  flex: 1;
+}
+
+// structure of year container - offset the header so you get the side grouping
+.year_container {
+  display: flex;
+  vertical-align: top;
+  border-top: solid 1px #3f51b5;
+  margin-left: -6rem;
+}
+
+.year_container h4 {
+  width: 6rem;
+  padding-top: 0;
+  color: #3f51b5; 
+}
+
+.year_container .bibtex_display {
+  flex: 1;
+}
+
+.year_container .bibtex_display .bibtexentry {
+  margin-top: 0.25em;
+  margin-bottom: 0.25em;
+}
