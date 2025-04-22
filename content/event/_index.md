@@ -13,7 +13,7 @@ banner:
 <br />
 <span style="font-size: 12pt;"><em>Interested in attending our lab meetings? These meetings are open to all students at UKE and usually take place on Wednesday mornings at 11:00 in SFB-Raum W34. If you are interested in attending, please contact us in advance so that we can ensure adequate space</em></span><br><br>
 
-<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
 <script>
     function arrayToTable(tableData) {
       console.log(tableData)
