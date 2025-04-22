@@ -11,7 +11,7 @@ banner:
 
 ---
 <br />
-<span style="font-size: 12pt;"><em>Interested in attending our lab meetings? These meetings are open to all students at UKE and usually take place on Wednesday mornings at 11:00 in SFB-Raum W34. If you are interested in attending, please contact us in advance so that we can ensure adequate space</em></span><br><br>
+<span style="font-size: 12pt;"><em>Interested in attending our lab meetings? These meetings are open to all students at UKE and usually take place on Wednesday mornings at 11:00 in W34, 2nd floor meeting room. Click on the events below to see more details. If you are interested in attending one of our open meetings, please contact us in advance so that we can ensure adequate space</em></span><br><br>
 
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
 <script>
