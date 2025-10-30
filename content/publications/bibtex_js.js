@@ -22,6 +22,7 @@
  *  value_braces -> '{' .*? '"'; // not quite
  *
  */
+/* Code adapted to accommodate reading from a Google Doc bib file */
 
 function BibtexParser() {
     this.pos = 0;
@@ -64,7 +65,7 @@ function BibtexParser() {
     }
 
     this.isWhitespace = function(s) {
-        return (s == ' ' || s == '\r' || s == '\t' || s == '\n');
+        return (s == ' ' || s == '\r' || s == '\t' || s == '\n' || s == /\s/g);
     }
 
     this.match = function(s) {
@@ -88,7 +89,7 @@ function BibtexParser() {
     }
 
     this.skipWhitespace = function() {
-        while (this.isWhitespace(this.input[this.pos])) {
+        while (this.pos < this.input.length && this.isWhitespace(this.input[this.pos])) {
             this.pos++;
         }
         if (this.input[this.pos] == "%") {
@@ -177,33 +178,44 @@ function BibtexParser() {
             if (this.pos == this.input.length) {
                 throw "Runaway key";
             }
-
-            if (this.input[this.pos].match("[a-zA-Z0-9_:?\\./'\\+\\-\\*]")) {
+            if (this.input[this.pos].match("[a-zA-Z0-9_:?\\./'\\+\\-\\*]") || this.input[this.pos].match("%") || this.input[this.pos].match(" ")) {
                 this.pos++
             } else {
-                this.rawCurrentKey = this.input.substring(start, this.pos);
-                return this.rawCurrentKey.toUpperCase();
+                if(this.pos > start) {
+                    this.rawCurrentKey = this.input.substring(start, this.pos).replace(/\s/g,'');
+                    return this.rawCurrentKey.toUpperCase();
+                } else {
+                    this.pos++
+                }
             }
         }
     }
 
 
     this.key_equals_value = function() {
+        this.skipWhitespace()
         var key = this.key();
         if (this.tryMatch("=")) {
             this.match("=");
             var val = this.value();
             return [key, val];
         } else {
-            throw "... = value expected, equals sign missing:" + this.input.substring(this.pos);
+            console.log(key)
+            console.log(this)
+            throw "... = value expected, equals sign missing:" + this.input.substring(this.pos-10,this.pos+10);
         }
     }
 
     this.key_value_list = function() {
         var kv = this.key_equals_value();
         this.entries[this.currentEntry][kv[0]] = kv[1];
-        while (this.tryMatch(",")) {
-            this.match(",");
+        while (this.tryMatch(",") || this.input[this.pos] == "\n") {
+            if (this.input[this.pos] == "\n") {
+                this.pos++;
+                this.skipWhitespace();
+            } else {
+                this.match(",");
+            }
             // fixes problems with commas at the end of a list
             if (this.tryMatch("}") || this.tryMatch(")")) {
                 break;
@@ -918,7 +930,33 @@ function bibtex_js_draw() {
                 url: $(this).attr('src'),
                 dataType: "text"
             })
-            .done((data) => bibstring += data)
+              .done((data) => {            
+                // Remove HTML tags and JavaScript
+                var plainText = data.replace(/<script>.*?<\/script>/gs, '');
+                plainText = plainText.replace(/<\/p>/g,'\n')
+                plainText = plainText.replace(/<[^>]*>/g, '');
+
+                // Unescape HTML entities
+                plainText = plainText.replace(/&quot;/g, '"');
+                plainText = plainText.replace(/&amp;/g, '&');
+
+                // Extract BibTeX entries
+                var bibtexEntries = plainText.match(/@\w+\s*\{[^}]*\}/gs);
+
+                if (bibtexEntries) {
+                    console.log('Received BibTeX entries from ' + $(this).attr('src') + ':');
+                    for (var i = 0; i < bibtexEntries.length; i++) {
+                        try {
+                            bibstring += bibtexEntries[i] + '\n\n';
+                        } catch (error) {
+                            console.error('Error processing BibTeX entry:', bibtexEntries[i]);
+                        }
+                    }
+                } else {
+                    console.log('No BibTeX entries found in ' + $(this).attr('src'));
+                }
+                console.log(bibstring)
+            })
             .fail((request, status, error) => console.error(error))
         requests.push(request);
     });

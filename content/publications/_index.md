@@ -21,7 +21,7 @@ banner:
 
 </script>
 <script type="text/javascript" src="bibtex_js.js"></script>
-<bibtex src="bibliography.bib"></bibtex>
+<bibtex src="https://docs.google.com/document/d/e/2PACX-1vQz4mr-6eseEY8CxNC8xQwIe3oHS5HkcOF-f7n2GSKec7g4ItedH07D-ilu2hoZA7uNCVUrOzNpX77L/pub?output=txt"></bibtex>
 
 <div id="bibfilters" class="search_bar">
   <select class="bibtex_search bibtex_generate_author" search="author">
