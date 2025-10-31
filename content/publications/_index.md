@@ -16,7 +16,7 @@ banner:
   // no surprise middle initials or full first names 
   const authorsList = [
     "C. Becchio", "G. Borghini", "N. C. Foster", "M. Memeo", "O. Pansardi", "K. Pullar",
-    "E. Scaliti", "L. Schmitz", "J. W. A. Strachan", "R. Villa", "Q. Zhao"
+    "E. Scaliti", "L. Schmitz", "V. Simonelli", "J. W. A. Strachan", "R. Villa", "Q. Zhao"
   ]
 
 </script>
