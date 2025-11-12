@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Valeria Peviani | Becchio CMON Lab</title>
+    <link>http://localhost:1313/author/valeria-peviani/</link>
+      <atom:link href="http://localhost:1313/author/valeria-peviani/index.xml" rel="self" type="application/rss+xml" />
+    <description>Valeria Peviani</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
+    <image>
+      <url>http://localhost:1313/author/valeria-peviani/avatar_hu02aa61ae1d9de35cbe238d2676170cb9_187709_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Valeria Peviani</title>
+      <link>http://localhost:1313/author/valeria-peviani/</link>
+    </image>
+    
+    <item>
+      <title>Valeria Peviani</title>
+      <link>http://localhost:1313/author/valeria-peviani/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/author/valeria-peviani/</guid>
+      <description>&lt;p&gt;Valeria Peviani received her Ph.D. in Psychology, Neuroscience and Data Science from the University of Pavia (Italy) in 2020. Her doctoral research was carried out between the Department of Brain and Behavioral Sciences in Pavia (advisor: Prof. Gabriella Bottini) and the Max Planck Institute for Empirical Aesthetics in Frankfurt am Main, Germany (advisor: Prof. Lucia Melloni), supported by a fellowship from the Italian Ministry of Education. She continued her research as a postdoctoral fellow at the Donders Institute for Brain, Cognition and Behavior in Nijmegen, the Netherlands (supervisors: Prof. Pieter Medendorp and Prof. Luke Miller), funded by a Radboud Excellence Fellowship.&lt;/p&gt;
+&lt;p&gt;Her research investigates how the brain represents the body’s geometry and spatial structure—how it constructs, perceives, and updates the shape and position of our limbs and body in space. To address these questions, she combines psychophysics, motion tracking and computational modeling.&lt;/p&gt;
+&lt;hr&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

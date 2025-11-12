@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kiri Pullar | Becchio CMON Lab</title>
+    <link>http://localhost:1313/author/kiri-pullar/</link>
+      <atom:link href="http://localhost:1313/author/kiri-pullar/index.xml" rel="self" type="application/rss+xml" />
+    <description>Kiri Pullar</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
+    <image>
+      <url>http://localhost:1313/author/kiri-pullar/avatar_hub38476f03af44818e7d3dc554e16d3b5_6048_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Kiri Pullar</title>
+      <link>http://localhost:1313/author/kiri-pullar/</link>
+    </image>
+    
+    <item>
+      <title>Kiri Pullar</title>
+      <link>http://localhost:1313/author/kiri-pullar/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/author/kiri-pullar/</guid>
+      <description>&lt;hr&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

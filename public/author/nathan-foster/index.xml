@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nathan Foster | Becchio CMON Lab</title>
+    <link>http://localhost:1313/author/nathan-foster/</link>
+      <atom:link href="http://localhost:1313/author/nathan-foster/index.xml" rel="self" type="application/rss+xml" />
+    <description>Nathan Foster</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
+    <image>
+      <url>http://localhost:1313/author/nathan-foster/avatar_hu26614947ad451dcff08ed34abd4c2540_15963_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Nathan Foster</title>
+      <link>http://localhost:1313/author/nathan-foster/</link>
+    </image>
+    
+    <item>
+      <title>Nathan Foster</title>
+      <link>http://localhost:1313/author/nathan-foster/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/author/nathan-foster/</guid>
+      <description>&lt;p&gt;Dr Nathan Foster obtained his undergraduate and postgraduate science degrees in Sport Psychology at the Research institute for Sport and Exercise Sciences, Liverpool John Moores University, UK. He completed his doctoral training under the supervision of Dr Spencer Hayes. His programme of work examined how processes associated with sensorimotor integration modulate sensorimotor learning and control in autism spectrum disorder. He then joined the Italian Institute of Technology to work on the MSCA Cofund project - MINDED which aimed to advance the diagnosis, imaging and treatment of neurodevelopmental disorders via the integration of nanomedicine, molecular neuroscience, and cognitive neuroscience robotics.&lt;/p&gt;
+&lt;p&gt;Nathan joined the UKE in 2023, to work on the EU funded project SHARESPACE which aims to create a hybrid, multimodal-multisensory integrated platform which adapts to individual users and enables them to interact in an embodied shared space by learning, identifying, and reconstructing the core sensorimotor primitives of social interactions.&lt;/p&gt;
+&lt;hr&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

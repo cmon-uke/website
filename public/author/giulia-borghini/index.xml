@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Giulia Borghini | Becchio CMON Lab</title>
+    <link>http://localhost:1313/author/giulia-borghini/</link>
+      <atom:link href="http://localhost:1313/author/giulia-borghini/index.xml" rel="self" type="application/rss+xml" />
+    <description>Giulia Borghini</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
+    <image>
+      <url>http://localhost:1313/author/giulia-borghini/avatar_huc84e63f6dc77192f086a5c0ce1be1001_238165_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Giulia Borghini</title>
+      <link>http://localhost:1313/author/giulia-borghini/</link>
+    </image>
+    
+    <item>
+      <title>Giulia Borghini</title>
+      <link>http://localhost:1313/author/giulia-borghini/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/author/giulia-borghini/</guid>
+      <description>&lt;p&gt;Giulia Borghini is a cognitive neuroscientist specialising in speech perception, listening effort, and intention understanding. She earned her Ph.D. in Speech Neuroscience from University College London (UCL), where she investigated the cognitive and auditory factors influencing speech comprehension. She then pursued postdoctoral research at the Italian Institute of Technology (IIT - Centre for Human Technology, Genoa), focusing on intention reading, predictive gaze behaviour and artificial intelligence applications in Theory of Mind. Her research at IIT focused on understanding how humans anticipate others’ intentions and actions using eye-tracking and computational modeling, in healthy and clinical populations.&lt;/p&gt;
+&lt;p&gt;Beyond research, she has clinical experience as a Speech and Language Therapist, working in multidisciplinary teams to support individuals with communication disorders. She has also contributed to academia through teaching and mentoring at UCL.&lt;/p&gt;
+&lt;hr&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

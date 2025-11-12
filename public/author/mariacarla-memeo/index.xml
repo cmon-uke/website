@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mariacarla Memeo | Becchio CMON Lab</title>
+    <link>http://localhost:1313/author/mariacarla-memeo/</link>
+      <atom:link href="http://localhost:1313/author/mariacarla-memeo/index.xml" rel="self" type="application/rss+xml" />
+    <description>Mariacarla Memeo</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
+    <image>
+      <url>http://localhost:1313/author/mariacarla-memeo/avatar_huf823da54e0ad298912e12dcb4deac288_466459_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Mariacarla Memeo</title>
+      <link>http://localhost:1313/author/mariacarla-memeo/</link>
+    </image>
+    
+    <item>
+      <title>Mariacarla Memeo</title>
+      <link>http://localhost:1313/author/mariacarla-memeo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/author/mariacarla-memeo/</guid>
+      <description>&lt;p&gt;Mariacarla is a Biomedical Engineer with a specialization in Electronics. She received her PhD in Bioengineering and Robotics at University of Genoa with a thesis titled “Interactive and effective representation of digital content through touch using local tactile feedback”. The main aim was to produce and analyse the amount and quality of information to be delivered through touch, in a non-visual scenario, for guidance and education purposes. For her PhD thesis, she won the TCCLS 2019 Award and since 2020 she’s member of the TCCLS Award Evaluation committee. Currently, she works in the Cognition, Motion and Neuroscience Unit (C’MoN) at IIT, Genoa. The focus of her work is on the extraction of significant biomechanical features involved in the recognition of human intentions and on the realization of experimental naturalistic scenarios, i.e. environments with a limited number of restrictions that could be considered ecological and realistic. To achieve those aims, her current approach is to integrate real-time analysis (kinematic and behavioural variables) with event-relate synchronization of different measurement systems (motion capture, EMG and TMS).&lt;/p&gt;
+&lt;hr&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

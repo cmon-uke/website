@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Riccardo Villa | Becchio CMON Lab</title>
+    <link>http://localhost:1313/author/riccardo-villa/</link>
+      <atom:link href="http://localhost:1313/author/riccardo-villa/index.xml" rel="self" type="application/rss+xml" />
+    <description>Riccardo Villa</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
+    <image>
+      <url>http://localhost:1313/author/riccardo-villa/avatar_hu9c7bc442187e0f0d1487755836fdaa6b_297754_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Riccardo Villa</title>
+      <link>http://localhost:1313/author/riccardo-villa/</link>
+    </image>
+    
+    <item>
+      <title>Riccardo Villa</title>
+      <link>http://localhost:1313/author/riccardo-villa/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/author/riccardo-villa/</guid>
+      <description>&lt;p&gt;Riccardo received his Ph.D. in Psychology and Social Neuroscience in 2019, at the University of Rome “La Sapienza”, and then joined the Italian Institute of Technology (Center for Life Nano- &amp;amp; Neuro-Science, Rome) as postdoc fellow until September 2022. He moved to UKE in October 2022, to join the CMON group as a postdoctoral fellow. His research interests focus on the reciprocal interactions between social, affective, and motor processes in the human brain. His doctoral and postdoctoral studies focused on understanding the impact of motoric and non-motoric cues on the Sense of Agency and on bodily awareness. His research experience also includes the study of moral decision making in healthy and clinical populations. In his current research project, he is investigating whether movement kinematics are modulated by fear learning, resulting from first-hand experience and from the observation of other agents interacting with threatening objects.&lt;/p&gt;
+&lt;hr&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

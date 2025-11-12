@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Qiwei Zhao | Becchio CMON Lab</title>
+    <link>http://localhost:1313/author/qiwei-zhao/</link>
+      <atom:link href="http://localhost:1313/author/qiwei-zhao/index.xml" rel="self" type="application/rss+xml" />
+    <description>Qiwei Zhao</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
+    <image>
+      <url>http://localhost:1313/author/qiwei-zhao/avatar_hu1a791c7ab425a814d565fa6ebb561cb1_121217_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Qiwei Zhao</title>
+      <link>http://localhost:1313/author/qiwei-zhao/</link>
+    </image>
+    
+    <item>
+      <title>Qiwei Zhao</title>
+      <link>http://localhost:1313/author/qiwei-zhao/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/author/qiwei-zhao/</guid>
+      <description>&lt;p&gt;Qiwei Zhao is currently a PhD candidate in Psychology at Shanghai University of Sport, China. Since April 2024, Qiwei has also been serving as a visiting scholar in Prof. Cristina Becchio’s laboratory at the University Medical Center Hamburg-Eppendorf, Germany. Particularly, Qiwei is interested in how humans perceive and understand others’ actions. His doctoral work focuses on action prediction in table tennis players. Using computational modeling and neuroimaging techniques, he investigates the mechanisms that allow experts to detect subtle movement patterns and make superior predictions.&lt;/p&gt;
+&lt;hr&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

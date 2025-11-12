@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Becchio CMON Lab</title>
+    <link>http://localhost:1313/</link>
+      <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <description>Becchio CMON Lab</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/logo_hu84abf05f207083456260c2c42885c64b_54460_300x300_fit_lanczos_3.png</url>
+      <title>Becchio CMON Lab</title>
+      <link>http://localhost:1313/</link>
+    </image>
+    
+    <item>
+      <title>BB-REBUS</title>
+      <link>http://localhost:1313/project/bbrebus/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/bbrebus/</guid>
+      <description>&lt;p&gt;Brain-Body factoRs mediating altEred Bodily representations in mUltiple pathological conditionS&lt;/p&gt;
+&lt;p&gt;Our own body is an “object” of perception. We can perceive its shape, weight, temperature, and we have experience of it, as by feeling the body as ours, as distinct from that of others and objects. These body perceptions (BP) are mediated by neural body representations, fed by a continuous brain-body bidirectional flow of multisensory signals. Disruptions of this flow, due to neural damage or sensorimotor deficits limiting environmental interactions, can alter BP. Alterations of BP can occur in diverse conditions including stroke (STK), spinal cord injuries (SCI) and multiple sclerosis (MS). Unlike motor functions, BP alterations are often overlooked in patients. This oversight limits our understanding of BP alterations, their underlying brain-body mechanism, their frequency and potential effect on disease evolution, directly affecting patients’ management and rehabilitative strategies.
+BB-REBUS brings together a highly interdisciplinary consortium to address this gap and establish a common framework for assessment, monitoring, and rehabilitation of BP alterations across disorders. Explicit broad characterization (WP1) and deep phenotyping (WP2) are combined with machine learning approaches (WP3) to understand brain-body interplays underlying BP alterations. STK, SCI and MS patients undergo broad BP characterization through questionnaires together with assessments of sensorimotor symptom, lesion analyses (STK, MS), and resting-state EEG (all patients, WP1). Patients reporting BP alterations are further deeply evaluated in motor abilities, daily activities, and interoceptive sensitivity (WP2). A model of commonalities and differences in BP alterations across pathologies is obtained (WP3). The results provide a comprehensive understanding of BP alterations among STK, SCI, and MS patients, covering frequency, evolution, sensory-motor-cognitive-neural factors to be disseminated through new educational courses for health professionals and patient-oriented-seminars. This knowledge inspires future personalized rehabilitative interventions and is scalable to other pathologies affecting sensorimotor abilities and BP.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.neuron-eranet.eu/projects/BB-REBUS/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;External project page&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Check out our current experiments</title>
+      <link>http://localhost:1313/current/</link>
+      <pubDate>Mon, 24 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/current/</guid>
+      <description>&lt;p&gt;To add a link to a new experiment, replace the content of the &lt;code&gt;text&lt;/code&gt; field with:&lt;/p&gt;
+&lt;p&gt;`&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  &lt;li&gt;
+    &lt;a href=&#34;[URL]&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;[EXPERIMENT TITLE]&lt;/a&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+`
+&lt;p&gt;replacing &lt;code&gt;[URL]&lt;/code&gt; with the link to the experiment advert, and &lt;code&gt;[EXPERIMENT TITLE]&lt;/code&gt; with the name of the study&lt;/p&gt;
+&lt;p&gt;When there are no studies, replace this with a placeholder so that people can see there is nothing there&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;We are not currently recruiting for any ongoing experiments. Please check back in the future&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Because this is a landing page, this text will not appear on the website when it is served&lt;/strong&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>http://localhost:1313/contact/</link>
+      <pubDate>Mon, 24 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/contact/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Our research</title>
+      <link>http://localhost:1313/research/</link>
+      <pubDate>Mon, 24 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/research/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>People</title>
+      <link>http://localhost:1313/people/</link>
+      <pubDate>Mon, 24 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/people/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ASTOUND</title>
+      <link>http://localhost:1313/project/astound/</link>
+      <pubDate>Wed, 02 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/astound/</guid>
+      <description>&lt;p&gt;Improving social competences of virtual agents through artificial consciousness based on the Attention Schema Theory&lt;/p&gt;
+&lt;p&gt;In the last decade, deep learning algorithms have enabled AI systems to perform a series of tasks, like speech and image recognition, as well as or better than humans. However, this technology is not going to be enough to deliver human-level intelligence without consciousness. Without understanding the subjective awareness element, it may be impossible to build AI that has a human-like ability to focus its computational resources and intelligently control that focus and interact with people in a socially competent manner. &lt;a href=&#34;https://blogs.upm.es/astound/en/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ASTOUND&lt;/a&gt; proposes an Integrative Approach For Awareness Engineering to establish consciousness in machines. The approach consists of an AI architecture for Artificial Consciousness based on the Attention Schema Theory (AST), a novel approach to social cognition that reconciles some of the current most debated cognitive neuroscience theories of consciousness. According to the AST, the brain constructs subjective awareness as a schematic model of the process of attention, suggesting that an information-processing machine could attribute consciousness properties to others in a similar way. The AST-based architecture proposed by ASTOUND will combine an Attention Mechanism provided by the attentional layers in a deep neural architecture and a Long Term Memory module allowing interplay between internal and external stimuli (data) with an Attention Schema that will determine empathic and trustworthy decision-making. ASTOUND will first implement this architecture into a virtual conversational agent (i.e. chatbot) to verify the hypothesis that an artificial consciousness based on AST will improve performance in a task of natural language understanding. ASTOUND will provide insights into consciousness that are concrete enough, and mechanistic enough, that engineers can build upon it to facilitate future technologies. The study has the potential to be a toolbox for the construction of an EIC Portfolio in conscious AI.&lt;/p&gt;
+&lt;p&gt;This project has received funding from the European Union’s Horizon 2020 research and innovation programme under the Pathfinder grant agreement No. 101071191&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://blogs.upm.es/astound/en/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;External project page&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>SHARESPACE</title>
+      <link>http://localhost:1313/project/sharespace/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/sharespace/</guid>
+      <description>&lt;p&gt;Embodied Social Experiences in Hybrid Shared Spaces&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://sharespace.eu&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SHARESPACE&lt;/a&gt; will demonstrate a radically new technology for promoting ethical and social interaction in eXtended Reality (XR) Shared Hybrid Spaces (SHS), anchored in human sensorimotor communication. Our core concept is to identify and segment social sensorimotor primitives and reconstruct them in hybrid settings to build continuous, embodied, and rich human- avatar experiences. To achieve this, three interconnected science-towards-technology breakthroughs will be delivered: novel computational cognitive architectures, a unique self-calibrating body sensor network, and a fully mobile spatial Augmented Reality (AR) and virtual human rendering. We will create a library of social motion primitives and use them to design AI-based architectures of our artificial agents. SHARESPACE mobile capturing technologies combine loosely-coupled visual-inertial tracking of full body kinematic, hand pose and facial expression, incorporating novel neural encoding/decoding functionalities, together with local context-aware animations and highly realistic neural rendering. Our technology will be iteratively tested in 2 Proofs-of-principles involving human and artificial agents interacting in SHS, and 3 real-world use case scenarios in Health, Sport and Art. We will demonstrate a fully functional prototype of SHARESPACE tailored to the agents’ personalized characteristics (gender, culture, and social dispositions). SHARESPACE will support community-building and exploitation with concrete initiatives, including (i) public engagement around our research and innovation, (ii) promoting high-tech innovation and early transfer to our deep-tech companies, as premises for the consolidation of human-centric and sovereign European market areas such Industry AR and SHS, eHealth and tele-Health. Our long-term vision is to bring XR to a radically new level of presence and sociality by reconstructing sensorimotor primitives that enable ethical, trusted and inclusive modes of social interaction.&lt;/p&gt;
+&lt;p&gt;This project has received funding from the European Union’s Horizon 2020 research and innovation  programme under grant agreement No 10192889.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://sharespace.eu&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;External project page&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/admin/config.yml</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/admin/config.yml</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
