@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position/tagline
-role: PhD student
+role: Postdoc
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -57,7 +57,7 @@ social:
 email: ""
 
 user_groups:
-  - PhD Students
+  - Postdocs
   - Lab members
 ---
 

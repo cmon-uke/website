@@ -13,7 +13,8 @@ sections:
       user_groups:
           - Principal Investigator
           - Lab members
-          - Affiliated
+          - Affiliated 
+          - Alumni
       sort_by: Params.last_name
       sort_ascending: true
     design:

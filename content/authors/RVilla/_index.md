@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position/tagline
-role: Postdoc
+role: Former Postdoc
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -59,6 +59,7 @@ email: ""
 user_groups:
   - Postdocs
   - Former
+  - Alumni
 ---
 
 Riccardo received his Ph.D. in Psychology and Social Neuroscience in 2019, at the University of Rome “La Sapienza”, and then joined the Italian Institute of Technology (Center for Life Nano- & Neuro-Science, Rome) as postdoc fellow until September 2022. He moved to UKE in October 2022, to join the CMON group as a postdoctoral fellow. His research interests focus on the reciprocal interactions between social, affective, and motor processes in the human brain. His doctoral and postdoctoral studies focused on understanding the impact of motoric and non-motoric cues on the Sense of Agency and on bodily awareness. His research experience also includes the study of moral decision making in healthy and clinical populations. In his current research project, he is investigating whether movement kinematics are modulated by fear learning, resulting from first-hand experience and from the observation of other agents interacting with threatening objects.

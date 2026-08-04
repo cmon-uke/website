@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position/tagline
-role: Postdoc
+role: Former Postdoc
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -69,7 +69,7 @@ social:
 email: ""
 
 user_groups:
-  - Former
+  - Alumni
   - Postdocs
 ---
 

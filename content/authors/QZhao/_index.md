@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position/tagline
-role: PhD Student
+role: Former visiting PhD Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -58,8 +58,7 @@ social:
 email: ""
 
 user_groups:
-  - PhD Students
-  - Lab members
+  - Alumni
 ---
 
 Qiwei Zhao is currently a PhD candidate in Psychology at Shanghai University of Sport, China. Since April 2024, Qiwei has also been serving as a visiting scholar in Prof. Cristina Becchio’s laboratory at the University Medical Center Hamburg-Eppendorf, Germany. Particularly, Qiwei is interested in how humans perceive and understand others’ actions. His doctoral work focuses on action prediction in table tennis players. Using computational modeling and neuroimaging techniques, he investigates the mechanisms that allow experts to detect subtle movement patterns and make superior predictions.

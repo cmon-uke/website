@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position/tagline
-role: Postdoc
+role: Former Postdoc
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -58,7 +58,7 @@ email: ""
 
 user_groups:
   - Postdocs
-  - Former
+  - Alumni
 ---
 
 Dr Nathan Foster obtained his undergraduate and postgraduate science degrees in Sport Psychology at the Research institute for Sport and Exercise Sciences, Liverpool John Moores University, UK. He completed his doctoral training under the supervision of Dr Spencer Hayes. His programme of work examined how processes associated with sensorimotor integration modulate sensorimotor learning and control in autism spectrum disorder. He then joined the Italian Institute of Technology to work on the MSCA Cofund project - MINDED which aimed to advance the diagnosis, imaging and treatment of neurodevelopmental disorders via the integration of nanomedicine, molecular neuroscience, and cognitive neuroscience robotics. 

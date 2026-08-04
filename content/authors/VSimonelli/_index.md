@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position/tagline
-role: Visiting PhD Student
+role: Postdoc
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -58,7 +58,7 @@ email: ""
 
 user_groups:
   - Lab members
-  - Visiting
+  - Postdocs
 ---
 Valeria Simonelli is a PhD student at La Sapienza University of Rome in Psychology and Cognitive Science, working at ISTC-CNR in Rome with Giovanni Pezzulo and the Conan Lab team. Valeria holds a master’s degree in Cognitive Neuroscience from La Sapienza, during which she spent three months at the University of Copenhagen for an internship at the CoInAct Lab under Prof. Mark Schram Christensen, gaining experience with TMS, EEG, and EMG techniques.
 
