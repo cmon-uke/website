@@ -69,7 +69,7 @@ social:
 email: ""
 
 user_groups:
-  - Lab members
+  - Former
   - Postdocs
 ---
 

@@ -92,6 +92,9 @@
     <loc>http://localhost:1313/event/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>http://localhost:1313/author/valeria-peviani/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>http://localhost:1313/author/valeria-simonelli/</loc>
     <changefreq>weekly</changefreq>
   </url>

@@ -41,7 +41,7 @@ interests:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:v.pevianii@uke.de'
+  link: 'mailto:v.peviani@uke.de'
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
